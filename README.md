@@ -22,3 +22,8 @@
 Дорабатывать схему обучения и анализа позы
 Доработать модуль управления движением (обратная связь + формирование программы движения )
 Подумать о взаимодействии нескольких автономных платформ без основного вычислителя
+
+
+SIAMNet Trecking https://github.com/mkorlyakova/SiamNet-Tracking.git
+Detector Trecking https://github.com/mkorlyakova/Detector-from-video.git
+Segmentation https://github.com/mkorlyakova/Segmentation.git
